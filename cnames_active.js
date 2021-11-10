@@ -111,6 +111,8 @@ var cnames_active = {
   "ahmeterdgn": "ahmeterdgn.github.io",
   "ahnotification": "ahmadhayyan.github.io/ahnotification.js",
   "ahooks": "ahooks.surge.sh",
+  "next.ahooks": "next.ahooks.surge.sh",
+  "v2.ahooks": "v2.ahooks.surge.sh",
   "aider": "tjz101.github.io/aider-js-pages",
   "airtable-plus": "victorhahn.github.io/airtable-plus",
   "ais": "yunyoujun.github.io/ais.js",
